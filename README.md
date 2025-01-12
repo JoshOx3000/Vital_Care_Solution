@@ -31,7 +31,7 @@ The **Vital Care Solutions** database is designed for efficient management of pa
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/vital-care-solutions.git
+   git clone https://github.com/joshox3000/vital-care-solutions.git
    ```
 2. Open the SQL script file (`vital_care_solutions.sql`) in Microsoft SQL Server Management Studio (SSMS) or any SQL Server-compatible tool.
 3. Run the script to create the database, tables, and populate it with dummy data.
